@@ -1,6 +1,6 @@
 ## Hey there👋
 
-I'm Fena., a Staff Software Test Engineer based in San Diego, California, USA. 
+I'm Fena, a Staff Software Test Engineer based in San Diego, California, USA. 
 
 Building reliable software through automation, systems validation, and quality engineering. I love solving complex system integration problems and drive to solution. 
 
@@ -20,5 +20,4 @@ Staff Software Quality Engineer | SDET | Systems Test Engineer | QA Architect
 - 🔭 I’m currently open to work and looking for my next opportunity
 - 📫 How to reach me: fena.prajapati@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
--->
+
