@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hey there👋
 
-<!--
-**fenaprajapati11/fenaprajapati11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Fena., a Staff Software Test Engineer based in San Diego, California, USA. 
 
-Here are some ideas to get you started:
+Building reliable software through automation, systems validation, and quality engineering. I love solving complex system integration problems and drive to solution. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+This is a fresh profile where I'll be uploading some smaller projects, experiments, and things I'm currently working on. Everything here is built from scratch, no copy/paste templates.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Skills**
+- Python • Playwright • Selenium
+- API • SQL • AWS • Jenkins
+- System Integration • CI/CD • AI Testing
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Open to**
+Staff Software Quality Engineer | SDET | Systems Test Engineer | QA Architect
+
+📫 LinkedIn: https://linkedin.com/in/yourprofile
+
+- 🔭 I’m currently open to work and looking for my next opportunity
+- 📫 How to reach me: fena.prajapati@gmail.com
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 -->
