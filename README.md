@@ -1,23 +1,35 @@
-## Hey there👋
+# Hi, I'm Fena Prajapati 👋
 
-I'm Fena, a Staff Software Test Engineer based in San Diego, California, USA. 
+I'm a **Staff Software Test Engineer** based in **San Diego, California**.
 
-Building reliable software through automation, systems validation, and quality engineering. I love solving complex system integration problems and drive to solution. 
+I build reliable software through automation, systems validation, and quality engineering. I enjoy solving complex system integration challenges by working across software, firmware, hardware, cloud, and backend systems.
 
-This is a fresh profile where I'll be uploading some smaller projects, experiments, and things I'm currently working on. Everything here is built from scratch, no copy/paste templates.
+This GitHub showcases the projects, automation frameworks, experiments, and tools I'm building as I continue learning and growing as an engineer.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Skills**
-- Python • Playwright • Selenium
-- API • SQL • AWS • Jenkins
-- System Integration • CI/CD • AI Testing
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Open to**
-Staff Software Quality Engineer | SDET | Systems Test Engineer | QA Architect
+## Tech Stack
 
-📫 LinkedIn: https://linkedin.com/in/yourprofile
+- Python
+- Playwright
+- Selenium
+- REST APIs
+- SQL
+- AWS
+- Jenkins
+- CI/CD
+- System Integration
+- AI-Assisted Testing
 
-- 🔭 I’m currently open to work and looking for my next opportunity
-- 📫 How to reach me: fena.prajapati@gmail.com
-- 😄 Pronouns: She/Her
+## Open To
 
+- Staff Software Quality Engineer
+- Staff Software Test Engineer
+- Systems Test Engineer
+- Software Validation Engineer
+- QA Architect
+- SDET
+
+## Connect With Me
+
+- 🔭 Open to new opportunities
+- 📫 Email: **fena.prajapati@gmail.com**
+- 💼 LinkedIn: **https://linkedin.com/in/yourprofile**
